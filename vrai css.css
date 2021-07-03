@@ -1,0 +1,16 @@
+body{ text-align: justify; font-family: 'Times New Roman', Times, serif; font-size: 1.2em; border: rgb(20, 18, 18) 4px 2px 4px 2px ; margin: 4px 2px 4px 2px; background-color: darkgreen;width:1650px; padding-left:10px; padding-right:10px;margin-left:50px;}
+.row{ width:1660px;}
+table{ border-collapse:collapse; }
+th{ border: 2px solid cadetblue; color: rgb(112, 153, 139); row:10px; col:5px;}
+caption{ text-align: center; text-decoration: cyan underline; background-color: darkgoldenrod; font-weight: bolder;}
+thead{ background-color: darkgreen ;color: hotpink;}
+header { background-color: black; color: blanchedalmond; }
+section { background-color: rgb(230, 216, 198) ;color: rgb(100, 66, 83);}
+aside{ background-color: rgb(51, 38, 109) ;color: rgb(119, 65, 92); font-family: Georgia, 'Times New Roman', Times, serif;text-align:center;}
+footer{ background-color: rgb(104, 74, 34) ;color: white; float: right; width:700px;text-align:center;}
+nav { font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;float:left; width:400px;background-color:red;text-align:center;}
+.amen{ font-weight: bolder;}
+h3, h1{  text-decoration: underline dotted green;text-align:center;}
+.page{background-color:black;color: white; text-align:center;}
+video,audio{width:300px;}
+.mon{width:50px;}
